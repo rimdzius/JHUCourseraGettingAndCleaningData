@@ -76,9 +76,15 @@ run_analysis <- function () {
     #######################################################################
     ## STEP 4: Appropriately labels the data set with descriptive variable names.
         ## See the colname() functions in STEP 1.
-        ## The naming was completed first so that any changes to the data, column ordering, etc. during processing did not affect the names.
-        ## The labels from the dataset are descriptive, and can be understood once you read the codebook.
-        
+        names(extracted)<-sub("^t","time-",names(extracted))
+        names(extracted)<-sub("^f","frequency-",names(extracted))
+        names(extracted)<-gsub("Body","body-",names(extracted))
+        names(extracted)<-gsub("Gravity","gravity-",names(extracted))
+        names(extracted)<-gsub("Acc","acceleration-",names(extracted))
+        names(extracted)<-gsub("Gyro","gyroscope-",names(extracted))
+        names(extracted)<-gsub("Mag","magnitude-",names(extracted))
+        names(extracted)<-gsub("--mean","-mean",names(extracted))
+        names(extracted)<-gsub("--std","-std",names(extracted))
     
     #######################################################################
     ## STEP 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
