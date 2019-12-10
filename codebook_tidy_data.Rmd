@@ -36,141 +36,141 @@ Number of variables            68
 Label   Variable                                                      Class       # unique  Missing  Description  
                                                                                     values                        
 ------- ------------------------------------------------------------- --------- ---------- --------- -------------
-        **[Activity]**                                                factor             6  0.00 %                
+        **[Activity]**                                                factor             6  0.00 %  Activity performed by the subjects. One of six possible factors.
 
-        **[Subject]**                                                 factor            30  0.00 %                
+        **[Subject]**                                                 factor            30  0.00 %  Numeric factor denoting the 30 subjects that participated in this study.
 
-        **[time-body-acceleration-mean()-X]**                         numeric          180  0.00 %                
+        **[time-body-acceleration-mean()-X]**                         numeric          180  0.00 %  Average of the X-axis data for the mean of the body acceleration in the time domain.
 
-        **[time-body-acceleration-mean()-Y]**                         numeric          180  0.00 %                
+        **[time-body-acceleration-mean()-Y]**                         numeric          180  0.00 %  Average of the Y-axis data for the mean of the body acceleration in the time domain.
 
-        **[time-body-acceleration-mean()-Z]**                         numeric          180  0.00 %                
+        **[time-body-acceleration-mean()-Z]**                         numeric          180  0.00 %  Average of the Z-axis data for the mean of the body acceleration in the time domain.
 
-        **[time-body-acceleration-std()-X]**                          numeric          180  0.00 %                
+        **[time-body-acceleration-std()-X]**                          numeric          180  0.00 %  Average of the X-axis data for the standard deviation of the body acceleration in the time domain.
 
-        **[time-body-acceleration-std()-Y]**                          numeric          180  0.00 %                
+        **[time-body-acceleration-std()-Y]**                          numeric          180  0.00 %  Average of the Y-axis data for the standard deviation of the body acceleration in the time domain.
 
-        **[time-body-acceleration-std()-Z]**                          numeric          180  0.00 %                
+        **[time-body-acceleration-std()-Z]**                          numeric          180  0.00 %  Average of the Z-axis data for the standard deviation of the body acceleration in the time domain.
 
-        **[time-gravity-acceleration-mean()-X]**                      numeric          180  0.00 %                
+        **[time-gravity-acceleration-mean()-X]**                      numeric          180  0.00 %  Average of the X-axis data for the mean of the gravity acceleration in the time domain.
 
-        **[time-gravity-acceleration-mean()-Y]**                      numeric          180  0.00 %                
+        **[time-gravity-acceleration-mean()-Y]**                      numeric          180  0.00 %  Average of the Y-axis data for the mean of the gravity acceleration in the time domain.
 
-        **[time-gravity-acceleration-mean()-Z]**                      numeric          180  0.00 %                
+        **[time-gravity-acceleration-mean()-Z]**                      numeric          180  0.00 %  Average of the Z-axis data for the mean of the gravity acceleration in the time domain.
 
-        **[time-gravity-acceleration-std()-X]**                       numeric          180  0.00 %                
+        **[time-gravity-acceleration-std()-X]**                       numeric          180  0.00 %  Average of the X-axis data for the standard deviation of the gravity acceleration in the time domain.
 
-        **[time-gravity-acceleration-std()-Y]**                       numeric          180  0.00 %                
+        **[time-gravity-acceleration-std()-Y]**                       numeric          180  0.00 %  Average of the Y-axis data for the standard deviation of the gravity acceleration in the time domain.
 
-        **[time-gravity-acceleration-std()-Z]**                       numeric          180  0.00 %                
+        **[time-gravity-acceleration-std()-Z]**                       numeric          180  0.00 %  Average of the Z-axis data for the standard deviation of the gravity acceleration in the time domain.
 
-        **[time-body-acceleration-Jerk-mean()-X]**                    numeric          180  0.00 %                
+        **[time-body-acceleration-Jerk-mean()-X]**                    numeric          180  0.00 %  Average of the X-axis data for the mean of the body jerk acceleration in the time domain.
 
-        **[time-body-acceleration-Jerk-mean()-Y]**                    numeric          180  0.00 %                
+        **[time-body-acceleration-Jerk-mean()-Y]**                    numeric          180  0.00 %  Average of the Y-axis data for the mean of the body jerk acceleration in the time domain.
 
-        **[time-body-acceleration-Jerk-mean()-Z]**                    numeric          180  0.00 %                
+        **[time-body-acceleration-Jerk-mean()-Z]**                    numeric          180  0.00 %  Average of the Z-axis data for the mean of the body jerk acceleration in the time domain.
 
-        **[time-body-acceleration-Jerk-std()-X]**                     numeric          180  0.00 %                
+        **[time-body-acceleration-Jerk-std()-X]**                     numeric          180  0.00 %  Average of the X-axis data for the standard deviaton of the body jerk acceleration in the time domain.
 
-        **[time-body-acceleration-Jerk-std()-Y]**                     numeric          180  0.00 %                
+        **[time-body-acceleration-Jerk-std()-Y]**                     numeric          180  0.00 %  Average of the Y-axis data for the standard deviaton of the body jerk acceleration in the time domain.
 
-        **[time-body-acceleration-Jerk-std()-Z]**                     numeric          180  0.00 %                
+        **[time-body-acceleration-Jerk-std()-Z]**                     numeric          180  0.00 %  Average of the Z-axis data for the standard deviaton of the body jerk acceleration in the time domain.
 
-        **[time-body-gyroscope-mean()-X]**                            numeric          180  0.00 %                
+        **[time-body-gyroscope-mean()-X]**                            numeric          180  0.00 %  Average of the X-axis data for the mean of the body gyroscope in the time domain.
 
-        **[time-body-gyroscope-mean()-Y]**                            numeric          180  0.00 %                
+        **[time-body-gyroscope-mean()-Y]**                            numeric          180  0.00 %  Average of the Y-axis data for the mean of the body gyroscope in the time domain.
 
-        **[time-body-gyroscope-mean()-Z]**                            numeric          180  0.00 %                
+        **[time-body-gyroscope-mean()-Z]**                            numeric          180  0.00 %  Average of the Z-axis data for the mean of the body gyroscope in the time domain.
 
-        **[time-body-gyroscope-std()-X]**                             numeric          180  0.00 %                
+        **[time-body-gyroscope-std()-X]**                             numeric          180  0.00 %  Average of the X-axis data for the standard deviation of the body gyroscope in the time domain.
 
-        **[time-body-gyroscope-std()-Y]**                             numeric          180  0.00 %                
+        **[time-body-gyroscope-std()-Y]**                             numeric          180  0.00 %  Average of the Y-axis data for the standard deviation of the body gyroscope in the time domain.
 
-        **[time-body-gyroscope-std()-Z]**                             numeric          180  0.00 %                
+        **[time-body-gyroscope-std()-Z]**                             numeric          180  0.00 %  Average of the Z-axis data for the standard deviation of the body gyroscope in the time domain.
 
-        **[time-body-gyroscope-Jerk-mean()-X]**                       numeric          180  0.00 %                
+        **[time-body-gyroscope-Jerk-mean()-X]**                       numeric          180  0.00 %  Average of the X-axis data for the mean of the body jerk gyroscope in the time domain.
 
-        **[time-body-gyroscope-Jerk-mean()-Y]**                       numeric          180  0.00 %                
+        **[time-body-gyroscope-Jerk-mean()-Y]**                       numeric          180  0.00 %  Average of the Y-axis data for the mean of the body jerk gyroscope in the time domain.
 
-        **[time-body-gyroscope-Jerk-mean()-Z]**                       numeric          180  0.00 %                
+        **[time-body-gyroscope-Jerk-mean()-Z]**                       numeric          180  0.00 %  Average of the Z-axis data for the mean of the body jerk gyroscope in the time domain.
 
-        **[time-body-gyroscope-Jerk-std()-X]**                        numeric          180  0.00 %                
+        **[time-body-gyroscope-Jerk-std()-X]**                        numeric          180  0.00 %  Average of the X-axis data for the standard deviation of the body jerk gyroscope in the time domain.
 
-        **[time-body-gyroscope-Jerk-std()-Y]**                        numeric          180  0.00 %                
+        **[time-body-gyroscope-Jerk-std()-Y]**                        numeric          180  0.00 %  Average of the Y-axis data for the standard deviation of the body jerk gyroscope in the time domain.
 
-        **[time-body-gyroscope-Jerk-std()-Z]**                        numeric          180  0.00 %                
+        **[time-body-gyroscope-Jerk-std()-Z]**                        numeric          180  0.00 %  Average of the Z-axis data for the standard deviation of the body jerk gyroscope in the time domain.
 
-        **[time-body-acceleration-magnitude-mean()]**                 numeric          180  0.00 %                
+        **[time-body-acceleration-magnitude-mean()]**                 numeric          180  0.00 %  Average of the mean of the body acceleration magnitude in the time domain.
 
-        **[time-body-acceleration-magnitude-std()]**                  numeric          180  0.00 %                
+        **[time-body-acceleration-magnitude-std()]**                  numeric          180  0.00 %  Average of the standard deviation of the body acceleration magnitude in the time domain.
 
-        **[time-gravity-acceleration-magnitude-mean()]**              numeric          180  0.00 %                
+        **[time-gravity-acceleration-magnitude-mean()]**              numeric          180  0.00 %  Average of the mean of the gravity acceleration magnitude in the time domain.
 
-        **[time-gravity-acceleration-magnitude-std()]**               numeric          180  0.00 %                
+        **[time-gravity-acceleration-magnitude-std()]**               numeric          180  0.00 %  Average of the standard deviation of the gravity acceleration magnitude in the time domain.
 
-        **[time-body-acceleration-Jerkmagnitude-mean()]**             numeric          180  0.00 %                
+        **[time-body-acceleration-Jerkmagnitude-mean()]**             numeric          180  0.00 %  Average of the mean of the body jerk acceleration magnitude in the time domain.                
 
-        **[time-body-acceleration-Jerkmagnitude-std()]**              numeric          180  0.00 %                
+        **[time-body-acceleration-Jerkmagnitude-std()]**              numeric          180  0.00 %  Average of the standard deviation of the body jerk acceleration magnitude in the time domain.
 
-        **[time-body-gyroscope-magnitude-mean()]**                    numeric          180  0.00 %                
+        **[time-body-gyroscope-magnitude-mean()]**                    numeric          180  0.00 %  Average of the mean of the body gyroscope magnitude in the time domain.
 
-        **[time-body-gyroscope-magnitude-std()]**                     numeric          180  0.00 %                
+        **[time-body-gyroscope-magnitude-std()]**                     numeric          180  0.00 %  Average of the standard deviation of the body gyroscope magnitude in the time domain.
 
-        **[time-body-gyroscope-Jerkmagnitude-mean()]**                numeric          180  0.00 %                
+        **[time-body-gyroscope-Jerkmagnitude-mean()]**                numeric          180  0.00 %  Average of the mean of the body jerk gyroscope magnitude in the time domain.
 
-        **[time-body-gyroscope-Jerkmagnitude-std()]**                 numeric          180  0.00 %                
+        **[time-body-gyroscope-Jerkmagnitude-std()]**                 numeric          180  0.00 %  Average of the standard deviation of the body jerk gyroscope magnitude in the time domain.
 
-        **[frequency-body-acceleration-mean()-X]**                    numeric          180  0.00 %                
+        **[frequency-body-acceleration-mean()-X]**                    numeric          180  0.00 %  Average of the mean of the X-axis body acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-mean()-Y]**                    numeric          180  0.00 %                
+        **[frequency-body-acceleration-mean()-Y]**                    numeric          180  0.00 %  Average of the mean of the Y-axis body acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-mean()-Z]**                    numeric          180  0.00 %                
+        **[frequency-body-acceleration-mean()-Z]**                    numeric          180  0.00 %  Average of the mean of the Z-axis body acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-std()-X]**                     numeric          180  0.00 %                
+        **[frequency-body-acceleration-std()-X]**                     numeric          180  0.00 %  Average of the standard deviation of the X-axis body acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-std()-Y]**                     numeric          180  0.00 %                
+        **[frequency-body-acceleration-std()-Y]**                     numeric          180  0.00 %  Average of the standard deviation of the Y-axis body acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-std()-Z]**                     numeric          180  0.00 %                
+        **[frequency-body-acceleration-std()-Z]**                     numeric          180  0.00 %  Average of the standard deviation of the Z-axis body acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-Jerk-mean()-X]**               numeric          180  0.00 %                
+        **[frequency-body-acceleration-Jerk-mean()-X]**               numeric          180  0.00 %  Average of the mean of the X-axis body jerk acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-Jerk-mean()-Y]**               numeric          180  0.00 %                
+        **[frequency-body-acceleration-Jerk-mean()-Y]**               numeric          180  0.00 %  Average of the mean of the Y-axis body jerk acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-Jerk-mean()-Z]**               numeric          180  0.00 %                
+        **[frequency-body-acceleration-Jerk-mean()-Z]**               numeric          180  0.00 %  Average of the mean of the Z-axis body jerk acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-Jerk-std()-X]**                numeric          180  0.00 %                
+        **[frequency-body-acceleration-Jerk-std()-X]**                numeric          180  0.00 %  Average of the standard deviation of the X-axis body jerk acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-Jerk-std()-Y]**                numeric          180  0.00 %                
+        **[frequency-body-acceleration-Jerk-std()-Y]**                numeric          180  0.00 %  Average of the standard deviation of the Y-axis body jerk acceleration in the frequency domain.
 
-        **[frequency-body-acceleration-Jerk-std()-Z]**                numeric          180  0.00 %                
+        **[frequency-body-acceleration-Jerk-std()-Z]**                numeric          180  0.00 %  Average of the standard deviation of the Z-axis body jerk acceleration in the frequency domain.
 
-        **[frequency-body-gyroscope-mean()-X]**                       numeric          180  0.00 %                
+        **[frequency-body-gyroscope-mean()-X]**                       numeric          180  0.00 %  Average of the mean of the X-axis body gyroscope in the frequency domain.
 
-        **[frequency-body-gyroscope-mean()-Y]**                       numeric          180  0.00 %                
+        **[frequency-body-gyroscope-mean()-Y]**                       numeric          180  0.00 %  Average of the mean of the Y-axis body gyroscope in the frequency domain.
 
-        **[frequency-body-gyroscope-mean()-Z]**                       numeric          180  0.00 %                
+        **[frequency-body-gyroscope-mean()-Z]**                       numeric          180  0.00 %  Average of the mean of the Z-axis body gyroscope in the frequency domain.
 
-        **[frequency-body-gyroscope-std()-X]**                        numeric          180  0.00 %                
+        **[frequency-body-gyroscope-std()-X]**                        numeric          180  0.00 %  Average of the standard deviation of the X-axis body gyroscope in the frequency domain.
 
-        **[frequency-body-gyroscope-std()-Y]**                        numeric          180  0.00 %                
+        **[frequency-body-gyroscope-std()-Y]**                        numeric          180  0.00 %  Average of the standard deviation of the Y-axis body gyroscope in the frequency domain.
 
-        **[frequency-body-gyroscope-std()-Z]**                        numeric          180  0.00 %                
+        **[frequency-body-gyroscope-std()-Z]**                        numeric          180  0.00 %  Average of the standard deviation of the Z-axis body gyroscope in the frequency domain.
 
-        **[frequency-body-acceleration-magnitude-mean()]**            numeric          180  0.00 %                
+        **[frequency-body-acceleration-magnitude-mean()]**            numeric          180  0.00 %  Average of the mean of the body acceleration magnitude in the frequency domain.
 
-        **[frequency-body-acceleration-magnitude-std()]**             numeric          180  0.00 %                
+        **[frequency-body-acceleration-magnitude-std()]**             numeric          180  0.00 %  Average of the standard deviation of the body acceleration magnitude in the frequency domain.
 
-        **[frequency-body-body-acceleration-Jerkmagnitude-mean()]**   numeric          180  0.00 %                
+        **[frequency-body-body-acceleration-Jerkmagnitude-mean()]**   numeric          180  0.00 %  Average of the mean of the body jerk acceleration magnitude in the frequency domain.
 
-        **[frequency-body-body-acceleration-Jerkmagnitude-std()]**    numeric          180  0.00 %                
+        **[frequency-body-body-acceleration-Jerkmagnitude-std()]**    numeric          180  0.00 %  Average of the standard deviation of the body jerk acceleration magnitude in the frequency domain.
 
-        **[frequency-body-body-gyroscope-magnitude-mean()]**          numeric          180  0.00 %                
+        **[frequency-body-body-gyroscope-magnitude-mean()]**          numeric          180  0.00 %  Average of the mean of the body gyroscope magnitude in the frequency domain.
 
-        **[frequency-body-body-gyroscope-magnitude-std()]**           numeric          180  0.00 %                
+        **[frequency-body-body-gyroscope-magnitude-std()]**           numeric          180  0.00 %  Average of the standard deviation of the body gyroscope magnitude in the frequency domain.
 
-        **[frequency-body-body-gyroscope-Jerkmagnitude-mean()]**      numeric          180  0.00 %                
+        **[frequency-body-body-gyroscope-Jerkmagnitude-mean()]**      numeric          180  0.00 %  Average of the mean of the body jerk gyroscope magnitude in the frequency domain
 
-        **[frequency-body-body-gyroscope-Jerkmagnitude-std()]**       numeric          180  0.00 %                
+        **[frequency-body-body-gyroscope-Jerkmagnitude-std()]**       numeric          180  0.00 %  Average of the standard deviation of the body gyroscope jerk magnitude in the frequency domain.
 ------------------------------------------------------------------------------------------------------------------
 
 
